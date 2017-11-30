@@ -7,7 +7,7 @@ Crawl twitter content via Tweepy api (Streaming or period crawl).
 ### Process steps
 
 ```
-1. Apply API token through https://developer.twitter.com/
+1. Apply an API token through https://developer.twitter.com/
 
 2. Fill consumer_key, consumer_secret, access_token, access_secret.
 
