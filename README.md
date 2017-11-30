@@ -9,7 +9,7 @@ Crawl twitter content via Tweepy api (Streaming or period crawl).
 ```
 1. Apply an API token through https://developer.twitter.com/
 
-2. Fill consumer_key, consumer_secret, access_token, access_secret.
+2. Fill consumer_key, consumer_secret, access_token, access_secret fields.
 
 (Crawler)3-1. Specify query term.
 
